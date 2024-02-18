@@ -11,12 +11,17 @@ cd Simple Password Generator
 
 ## How to use
 To quickly generate a password, call:
+
 `python spasswd.py`
 
 There are additional parameters that can be used when calling the command:
+
 `-f` *or* `--file` - File name for recording the prepared password
+
 `-rw` *or* `--rawfile` - File name for recording the prepared password with deleting another data
+
 `-t` *or* `--type` - Selecting a password generation template *(for advanced users)*
+
 
 Examples:
 
